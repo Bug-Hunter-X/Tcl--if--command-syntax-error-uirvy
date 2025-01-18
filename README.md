@@ -1,0 +1,2 @@
+# Tcl `if` command syntax error
+This repository demonstrates a common error in Tcl's `if` command syntax.  The error arises from incorrectly omitting curly braces `{}` around the `then` and `else` clauses when they contain more than one command. This example showcases the error and its correct solution.
